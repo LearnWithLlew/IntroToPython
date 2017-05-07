@@ -13,3 +13,5 @@ class Reds(object):
     Red = Colors.Reds.Red
 class Blues(object):
     Blue = Colors.Blues.Blue
+class Yellows(object):
+    Yellow = Colors.Yellows.Yellow
