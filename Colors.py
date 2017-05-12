@@ -1,6 +1,6 @@
 import sys
 
-libDir = "/Users/llewellyn/PycharmProjects/LearnWithLlew/LearnWithLlew.jar"
+libDir = "LearnWithLlew.jar"
 sys.path.append(libDir)
 
 from org.learnwithllew.teachingextensions.logo import Colors
